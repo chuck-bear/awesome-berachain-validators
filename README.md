@@ -1,4 +1,3 @@
-<!--lint disable double-link-->
 # Awesome Berachain validators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Collection of Berachain validators resources
@@ -13,3 +12,6 @@
 ## PoL
 
 * [Synergynode currting board tool](https://beratools.synergynodes.com/) - Simple UI to manage your Berachef cutting board.
+
+## Data
+* [BGTscan](https://bgtscan.com/) - BGT rewards dashboard
