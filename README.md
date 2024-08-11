@@ -12,6 +12,7 @@
 ## PoL
 
 * [Synergynode cutting board tool](https://beratools.synergynodes.com/) - Simple UI to manage your Berachef cutting board.
+* [Kodiak cutting board tool](https://cutting-board.beraden.com/) - Simple UI to manage your Berachef cutting board.
 
 ## Data
 * [BGTscan](https://bgtscan.com/) - BGT rewards dashboard
