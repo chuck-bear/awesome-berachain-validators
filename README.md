@@ -30,3 +30,17 @@
 | A41 | https://services.staketab.org/docs/beacon-testnet/snapshot| peebledb |
 | Synergy Nodes | https://synergynodes.com/service/berachain-v2-testnet | peebledb |
 | L0vd services | https://chain-services.l0vd.com/testnets/berachain_v2/snapshot#sync-from-snapshot-pebbledb | peebledb |
+
+
+## FAQ
+* **How do I address missed blocks on my validator?**
+    * Check disk I/O metrics, make sure your node can keep up.
+    * NVMe storage is highly recomended over SSDs for better performance.
+    * The CPU is another possible bottleneck. Some users have reported that overclocking has helped dissipate the problem.
+    * For validators on AWS,`i4i.2xlarge` is a good example of machine spec which has been reported to work without issues.
+    * For more context, [please see this relevant discussion](https://discord.com/channels/924442927399313448/1245159849986228284/1273677626615009443).
+* **My BGT rewards are delayed or missing!**
+  * Please review your cutting board, ensure that the weights are setup exactly the way you expect them.
+  * You can use any of [these tools](#pol) to make the job easy.
+  * Currently the rewards distribution is less centralized and (very rarely) likely to be disrupted. The berachain team will continue to monitor and fix any problems, but expect more decentralization (and more resileince) in the future.
+  * If you updated your cutting board and are worried about the status of the update, you can check the current status through a [contract call](https://docs.berachain.com/developers/contracts/berachef). Please see discussion [here](https://discord.com/channels/924442927399313448/1245159849986228284/1275152865089949781).
