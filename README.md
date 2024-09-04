@@ -3,6 +3,11 @@
 > Collection of Berachain validators resources
 
 ## Contents
+[Monitoring](#monitoring)  
+[Proof of Liquidity](#pol)  
+[Data](#data)  
+[Snapshots](#snapshots)  
+[FAQ](#faq)  
 
 ## Monitoring
 
@@ -44,3 +49,5 @@
   * You can use any of [these tools](#pol) to make the job easy.
   * Currently the rewards distribution is less centralized and (very rarely) likely to be disrupted. The berachain team will continue to monitor and fix any problems, but expect more decentralization (and more resileince) in the future.
   * If you updated your cutting board and are worried about the status of the update, you can check the current status through a [contract call](https://docs.berachain.com/developers/contracts/berachef). Please see discussion [here](https://discord.com/channels/924442927399313448/1245159849986228284/1275152865089949781).
+* **I have questions on snapshots?**
+  * More information [here](snapshots.md).
