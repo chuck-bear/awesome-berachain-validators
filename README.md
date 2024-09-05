@@ -35,6 +35,7 @@
 | A41 | https://narrow-cello-dab.notion.site/A41-Berachain-Testnet-v2-Snapshots-4d39b8e7046e4fc8bce4ce9cf5053b97 | pebbledb |
 | Synergy Nodes | https://synergynodes.com/service/berachain-v2-testnet | pebbledb |
 | L0vd services | https://chain-services.l0vd.com/testnets/berachain_v2/snapshot#sync-from-snapshot-pebbledb | pebbledb |
+| TTT VN | https://services.tienthuattoan.com/testnet/berachain-v2/snapshot | pebbledb |
 
 
 ## FAQ
