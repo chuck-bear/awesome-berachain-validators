@@ -36,6 +36,7 @@
 | Synergy Nodes | https://synergynodes.com/service/berachain-v2-testnet | pebbledb |
 | L0vd services | https://chain-services.l0vd.com/testnets/berachain_v2/snapshot#sync-from-snapshot-pebbledb | pebbledb |
 | TTT VN | https://services.tienthuattoan.com/testnet/berachain-v2/snapshot | pebbledb |
+| Brightlystake | https://testnet-berav2.brightlystake.com/snapshot/ | pebbledb |
 
 
 ## FAQ
