@@ -53,3 +53,12 @@
   * If you updated your cutting board and are worried about the status of the update, you can check the current status through a [contract call](https://docs.berachain.com/developers/contracts/berachef). Please see discussion [here](https://discord.com/channels/924442927399313448/1245159849986228284/1275152865089949781).
 * **I have questions on snapshots?**
   * More information [here](snapshots.md).
+
+## Contributing
+
+Your contributions are welcome! Please feel free to submit a Pull Request.
+
+### Changelog
+
+* 2023-09-23: Initial release
+* 2023-09-24: Added Validator Setup Guides and Community sections
