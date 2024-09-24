@@ -60,5 +60,4 @@ Your contributions are welcome! Please feel free to submit a Pull Request.
 
 ### Changelog
 
-* 2023-09-23: Initial release
-* 2023-09-24: Added Validator Setup Guides and Community sections
+* 2024-09-02: Initial release
