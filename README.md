@@ -60,4 +60,4 @@ Your contributions are welcome! Please feel free to submit a Pull Request.
 
 ### Changelog
 
-* 2024-09-02: Initial release
+* 2024-08-02: Initial release
