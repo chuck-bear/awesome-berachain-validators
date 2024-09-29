@@ -53,6 +53,11 @@
   * If you updated your cutting board and are worried about the status of the update, you can check the current status through a [contract call](https://docs.berachain.com/developers/contracts/berachef). Please see discussion [here](https://discord.com/channels/924442927399313448/1245159849986228284/1275152865089949781).
 * **I have questions on snapshots?**
   * More information [here](snapshots.md).
+* **I'm unable to update the cutting board - returns an error**
+  * Please see above for tools that you can use to update your cutting board. You can also run trasanctions from the command-line (ex. `cast`)
+  * Check the transaction details on the explorer - what does it say? For example, [this transaction ](https://bartio.beratrail.io/tx/0x0ad986617ee16ebb60b04b988d4aa845e817e3788702b716b949eeeb0986b17f) returned an error because the operator address was not registered.
+  * To set the operator address, run: `cast send 0xfb81E39E3970076ab2693fA5C45A07Cc724C93c2 "setOperator(address)" 0xYOUROPERATORADDRESS --rpc-url ETH_RPC_URL --private-key YOURPRIVATEKEYWITHOUT0x`
+  * Please make sure to read the instructions very carefully - addresses, amounts, etc.
 
 ## Contributing
 
