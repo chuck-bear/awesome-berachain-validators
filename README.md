@@ -11,6 +11,7 @@
 
 ## Monitoring
 
+* [Berachain Validator Monitoring](https://grafana.tools.berachain.com/public-dashboards/d2ebb1bef39846c194e9fb731526856f?orgId=1&from=1727808520612&to=1727851720612) - Public Dashboard
 * [Tenderduty](https://github.com/blockpane/tenderduty) - Comprehensive monitoring tool for Tendermint chains. Its primary function is to alert a validator if they are missing blocks, and more.
 * [cosmos-validator-watcher](https://github.com/kilnfi/cosmos-validator-watcher) - Real-time Cosmos-based chains monitoring.
 
