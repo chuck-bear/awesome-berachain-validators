@@ -36,7 +36,7 @@
 | [Blacknodes](https://services.blacknodes.net/Berachain-V2/)                                                     | pebbledb  |
 | [Blockhunters](https://blockhunters.dev/testnet/berachainv2/snapshot)                                           | goleveldb |
 | [Brightlystake](https://testnet-berav2.brightlystake.com/snapshot/)                                             | pebbledb  |
-| [Contribution DAO](https://services.contributiondao.com/testnet/berachain-v2/snapshot)                          | pebbledb  |
+| [Contribution DAO](https://services.contributiondao.com/testnet/berachain-v2/snapshots)                         | pebbledb  |
 | [Imperator](https://www.imperator.co/services/chain-services/testnets/bera-v2)                                  | goleveldb |
 | [L0vd services](https://chain-services.l0vd.com/testnets/berachain_v2/snapshot#sync-from-snapshot-pebbledb)     | pebbledb  |
 | [Staketab](https://services.staketab.org/docs/beacon-testnet/snapshot)                                          | pebbledb  |
