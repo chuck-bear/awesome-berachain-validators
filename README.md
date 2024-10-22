@@ -62,6 +62,13 @@
   * Check the transaction details on the explorer - what does it say? For example, [this transaction ](https://bartio.beratrail.io/tx/0x0ad986617ee16ebb60b04b988d4aa845e817e3788702b716b949eeeb0986b17f) returned an error because the operator address was not registered.
   * To set the operator address, run: `cast send 0xfb81E39E3970076ab2693fA5C45A07Cc724C93c2 "setOperator(address)" 0xYOUROPERATORADDRESS --rpc-url ETH_RPC_URL --private-key YOURPRIVATEKEYWITHOUT0x`
   * Please make sure to read the instructions very carefully - addresses, amounts, etc.
+* **How do I check for peering issues?**
+  * Poor peering can result in your node falling behind and potentially missing out on rewards.
+  * Keep an eye on your logs if your suspect any peering problems - these will usually show up as a "connection refused" message, "could not resolve host" etc.
+  * Check for established connections to your node. ex. on linux `netstat -plant|grep ESTABLISHED`, which gives you the source addresses to verify peering.
+  * [Check your geographic region](https://services.tienthuattoan.com/testnet/berachain-v2/map) for the availability of nearby peers; consider relocating to a different region.
+  * Change your execution client - remember that peering can affect both the execution and consensus layers. Reth appears to have substantially more peers than geth.
+  * Make sure that you have alerting set up on both layers to catch any problems proactively. More information was provided during the [monitoring office hours](https://discord.com/channels/924442927399313448/1245528095553753169/1270454196940046418).
 
 ## Contributing
 
