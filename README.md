@@ -30,6 +30,7 @@
 | Provider                                                                                                        | Database  |
 |-----------------------------------------------------------------------------------------------------------------|-----------|
 | [A41](https://narrow-cello-dab.notion.site/A41-Berachain-Testnet-v2-Snapshots-4d39b8e7046e4fc8bce4ce9cf5053b97) | pebbledb  |
+| [Allnodes](https://www.publicnode.com/snapshots#berachain)                                                      | goleveldb |
 | [Berachain (Asia)](https://storage.googleapis.com/bartio-snapshot-as/index.html)                                | pebbledb  |
 | [Berachain (Europe)](https://storage.googleapis.com/bartio-snapshot-eu/index.html)                              | pebbledb  |
 | [Berachain (North America)](https://storage.googleapis.com/bartio-snapshot/index.html)                          | pebbledb  |
