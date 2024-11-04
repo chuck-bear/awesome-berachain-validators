@@ -42,6 +42,7 @@
 | [Staketab](https://services.staketab.org/docs/beacon-testnet/snapshot)                                          | pebbledb  |
 | [Synergy Nodes](https://synergynodes.com/service/berachain-v2-testnet)                                          | pebbledb  |
 | [TTT VN](https://services.tienthuattoan.com/testnet/berachain-v2/snapshot)                                      | pebbledb  |
+| [Allnodes](https://www.publicnode.com/snapshots#berachain)                                                      | goleveldb |
 
 ## FAQ
 * **How do I address missed blocks on my validator?**
