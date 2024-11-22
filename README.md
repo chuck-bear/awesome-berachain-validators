@@ -61,9 +61,6 @@
     * The CPU is another possible bottleneck, especially CPU frequency. Some users have reported that overclocking has helped dissipate the problem.
     * For validators on AWS,`i4i.2xlarge` is a good example of machine spec which has been reported to work without issues.
     * For more context, [please see this relevant discussion](https://discord.com/channels/924442927399313448/1245159849986228284/1273677626615009443).
-* **How do I address empty blocks on my validator?**
-    * Try the recommendations above.
-    * If you are using reth execution client, try bumping to [v1.0.8](https://github.com/paradigmxyz/reth/releases/tag/v1.0.8). Some validators reported that this solved the empty blocks issue.
 * **My BGT rewards are delayed or missing!**
   * Please review your cutting board, ensure that the weights are setup exactly the way you expect them.
   * You can use any of [these tools](#pol) to make the job easy.
