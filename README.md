@@ -6,6 +6,7 @@
 [Monitoring](#monitoring)  
 [Proof of Liquidity](#pol)  
 [Data](#data)  
+[Tooling](#tooling)  
 [Snapshots](#snapshots)  
 [FAQ](#faq)  
 
@@ -28,6 +29,11 @@
 * [Nodes map](https://services.tienthuattoan.com/testnet/berachain-v2/map) - Berachain v2 nodes map
 * [B-Harvest dashboard](https://bera-dashboard.bharvest.io/) - Validators data by B-Harvest
 
+## Tooling
+
+* [berachain-docker-node](https://github.com/upnodedev/berachain-docker-node) - Docker compose script to run Berachain node in a single command
+* [bera-snap](https://github.com/upnodedev/bera-snap) - Auto snapshots tool for berachain-docker-node with configurable cron scheduling, REST API for snapshot distribution, and optional GCS upload
+
 ## Snapshots
 
 | Provider                                                                                                        | Database  |
@@ -46,12 +52,13 @@
 | [Staketab](https://services.staketab.org/docs/beacon-testnet/snapshot)                                          | pebbledb  |
 | [Synergy Nodes](https://synergynodes.com/service/berachain-v2-testnet)                                          | pebbledb  |
 | [TTT VN](https://services.tienthuattoan.com/testnet/berachain-v2/snapshot)                                      | pebbledb  |
+| [Upnode](https://bera.upnode.org/berachainv2/snapshots)                                                         | pebbledb  |
 
 ## FAQ
 * **How do I address missed blocks on my validator?**
     * Check disk I/O metrics, make sure your node can keep up.
     * NVMe storage is highly recomended over SSDs for better performance.
-    * The CPU is another possible bottleneck. Some users have reported that overclocking has helped dissipate the problem.
+    * The CPU is another possible bottleneck, especially CPU frequency. Some users have reported that overclocking has helped dissipate the problem.
     * For validators on AWS,`i4i.2xlarge` is a good example of machine spec which has been reported to work without issues.
     * For more context, [please see this relevant discussion](https://discord.com/channels/924442927399313448/1245159849986228284/1273677626615009443).
 * **My BGT rewards are delayed or missing!**
