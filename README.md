@@ -5,7 +5,8 @@
 ## Contents
 [Monitoring](#monitoring)  
 [Proof of Liquidity](#pol)  
-[Data](#data)  
+[Data](#data)
+[Tooling](#tooling)
 [Snapshots](#snapshots)  
 [FAQ](#faq)  
 
@@ -27,6 +28,9 @@
 * [BGTscan](https://bgtscan.com/) - BGT rewards dashboard
 * [Nodes map](https://services.tienthuattoan.com/testnet/berachain-v2/map) - Berachain v2 nodes map
 * [B-Harvest dashboard](https://bera-dashboard.bharvest.io/) - Validators data by B-Harvest
+
+## Tooling
+* [berachain-ansible-playbook](https://github.com/encapsulate-xyz/berachain-ansible) - The [Encapsulate's](https://encapsulate.xyz/) Berachain Ansible Playbook enables seamless deployment and management of Berachain execution and consensus nodes, with a strong emphasis on security, customization, and operational simplicity.
 
 ## Snapshots
 
