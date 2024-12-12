@@ -20,7 +20,7 @@
 * [BeraChain Scan](https://berachainscan.com) - Custom Block Explorer
 
 ## PoL
-
+* [Encapsulate cutting board tool](https://cb.berachain.testnet.encapsulate.xyz) - Simple UI to manage your Berachef cutting board.
 * [Synergynode cutting board tool](https://beratools.synergynodes.com/) - Simple UI to manage your Berachef cutting board.
 * [Kodiak cutting board tool](https://cutting-board.beraden.com/) - Simple UI to manage your Berachef cutting board.
 
