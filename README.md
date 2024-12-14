@@ -31,6 +31,7 @@
 
 ## Tooling
 * [berachain-ansible-playbook](https://github.com/encapsulate-xyz/berachain-ansible) - The [Encapsulate's](https://encapsulate.xyz/) Berachain Ansible Playbook enables seamless deployment and management of Berachain execution and consensus nodes, with a strong emphasis on security, customization, and operational simplicity.
+* [Berachain-tools](https://bera-tools.brightlystake.com/) - RPC, WSS, EVM RPC status for Berachain by Brightlystake
 
 ## Snapshots
 
