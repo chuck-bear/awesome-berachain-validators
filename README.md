@@ -34,6 +34,7 @@
 * [berachain-docker-node](https://github.com/upnodedev/berachain-docker-node) - Docker compose script to run Berachain node in a single command
 * [bera-snap](https://github.com/upnodedev/bera-snap) - Auto snapshots tool for berachain-docker-node with configurable cron scheduling, REST API for snapshot distribution, and optional GCS upload
 * [berachain-ansible-playbook](https://github.com/encapsulate-xyz/berachain-ansible) - The [Encapsulate's](https://encapsulate.xyz/) Berachain Ansible Playbook enables seamless deployment and management of Berachain execution and consensus nodes, with a strong emphasis on security, customization, and operational simplicity.
+* [Berachain-tools](https://bera-tools.brightlystake.com/) - RPC, WSS, EVM RPC status for Berachain by Brightlystake
 
 ## Snapshots
 
