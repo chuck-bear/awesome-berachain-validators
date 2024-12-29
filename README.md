@@ -46,6 +46,7 @@
 | [Berachain (Europe)](https://storage.googleapis.com/bartio-snapshot-eu/index.html)                              | pebbledb  |
 | [Berachain (North America)](https://storage.googleapis.com/bartio-snapshot/index.html)                          | pebbledb  |
 | [Blacknodes](https://services.blacknodes.net/Berachain-V2/)                                                     | pebbledb  |
+| [Blacknodes](https://berachain-snapshots.blacknodes.net/)                                                       |All EL Snap|
 | [Blockhunters](https://blockhunters.dev/testnet/berachainv2/snapshot)                                           | goleveldb |
 | [Brightlystake](https://testnet-berav2.brightlystake.com/snapshot/)                                             | pebbledb  |
 | [Contribution DAO](https://services.contributiondao.com/testnet/berachain-v2/snapshots)                         | pebbledb  |
