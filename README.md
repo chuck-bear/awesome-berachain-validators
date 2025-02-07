@@ -36,7 +36,25 @@
 * [berachain-ansible-playbook](https://github.com/encapsulate-xyz/berachain-ansible) - The [Encapsulate's](https://encapsulate.xyz/) Berachain Ansible Playbook enables seamless deployment and management of Berachain execution and consensus nodes, with a strong emphasis on security, customization, and operational simplicity.
 * [Berachain-tools](https://bera-tools.brightlystake.com/) - RPC, WSS, EVM RPC status for Berachain by Brightlystake
 
-## Snapshots
+
+## Snapshots (Mainnet)
+
+| BeaconKit Snapshots                                                                                             | Database  |
+|-----------------------------------------------------------------------------------------------------------------|-----------|
+| [Staketab](https://services.staketab.org/docs/berachain/cl-snapshot/)                                           | pebbledb  |
+| [BrightlyStake](https://bera-main.brightlystake.com/snapshot/)                                                  | pebbledb  |
+| [A41](https://narrow-cello-dab.notion.site/A41-Berachain-Beacon-Snapshot-192c62052b8e808598d8f3911f1d5505)      | pebbledb  |
+| [GhostGraph](https://public-snapshots.ghostgraph.xyz/bera/snapshot-beacond-mainnet.tgz)                         | pebbledb  |
+| [L0vd.com](https://berachain-snapshots.l0vd.com/snapshot-beacond-mainnet.tgz)                                   | pebbledb  |
+
+| Execution Layer Snapshots                                                                                       | Client  |
+|-----------------------------------------------------------------------------------------------------------------|---------|
+| [Staketab](https://services.staketab.org/docs/berachain/el-snapshot/)                                           | geth    |
+| [BrightlyStake](https://bera-main.brightlystake.com/snapshot/)                                                  | reth    |
+| [L0vd.com](https://berachain.snapshots.lgns.net/snapshot-geth-mainnet.tgz)                                      | geth    |
+
+
+## Snapshots (Bartio testnet)
 
 | Provider                                                                                                        | Database  |
 |-----------------------------------------------------------------------------------------------------------------|-----------|
