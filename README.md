@@ -45,13 +45,13 @@
 | [BrightlyStake](https://bera-main.brightlystake.com/snapshot/)                                                  | pebbledb  |
 | [A41](https://narrow-cello-dab.notion.site/A41-Berachain-Beacon-Snapshot-192c62052b8e808598d8f3911f1d5505)      | pebbledb  |
 | [GhostGraph](https://public-snapshots.ghostgraph.xyz/bera/snapshot-beacond-mainnet.tgz)                         | pebbledb  |
-| [L0vd.com](https://berachain-snapshots.l0vd.com/snapshot-beacond-mainnet.tgz)                                   | pebbledb  |
+| [L0vd.com](https://chain-services.l0vd.com/mainnets/berachain/snapshot)                                         | pebbledb  |
 
 | Execution Layer Snapshots                                                                                       | Client  |
 |-----------------------------------------------------------------------------------------------------------------|---------|
 | [Staketab](https://services.staketab.org/docs/berachain/el-snapshot/)                                           | geth    |
 | [BrightlyStake](https://bera-main.brightlystake.com/snapshot/)                                                  | reth    |
-| [L0vd.com](https://berachain.snapshots.lgns.net/snapshot-geth-mainnet.tgz)                                      | geth    |
+| [L0vd.com](https://chain-services.l0vd.com/mainnets/berachain/snapshot)                                         | reth    |
 
 
 ## Snapshots (Bartio testnet)
