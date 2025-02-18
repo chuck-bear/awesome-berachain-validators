@@ -3,12 +3,17 @@
 > Collection of Berachain validators resources
 
 ## Contents
+[Deployment](#deployment)  
 [Monitoring](#monitoring)  
 [Proof of Liquidity](#pol)  
 [Data](#data)
 [Tooling](#tooling)
 [Snapshots](#snapshots)  
 [FAQ](#faq)  
+
+## Deployment
+* [Berachain's Validator Quickstart](https://docs.berachain.com/nodes/quickstart) - If you like copying and pasting scripts
+* [Rhinostake's Ansible Playbooks](https://github.com/RhinoStake/ansible-berachain) - If you like doing it right
 
 ## Monitoring
 
