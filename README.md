@@ -46,12 +46,14 @@
 | [A41](https://narrow-cello-dab.notion.site/A41-Berachain-Beacon-Snapshot-192c62052b8e808598d8f3911f1d5505)      | pebbledb  |
 | [GhostGraph](https://public-snapshots.ghostgraph.xyz/bera/snapshot-beacond-mainnet.tgz)                         | pebbledb  |
 | [L0vd.com](https://chain-services.l0vd.com/mainnets/berachain/snapshot)                                         | pebbledb  |
+| [BlackNodes](https://services.blacknodes.net/Berachain-Mainnet)                                                 | pebbledb  |
 
 | Execution Layer Snapshots                                                                                       | Client  |
 |-----------------------------------------------------------------------------------------------------------------|---------|
 | [Staketab](https://services.staketab.org/docs/berachain/el-snapshot/)                                           | geth    |
 | [BrightlyStake](https://bera-main.brightlystake.com/snapshot/)                                                  | reth    |
 | [L0vd.com](https://chain-services.l0vd.com/mainnets/berachain/snapshot)                                         | reth    |
+| [BlackNodes](https://berachain-snapshots.blacknodes.net)                                                        |All EL SNAPS|
 
 
 ## Snapshots (Bartio testnet)
@@ -63,8 +65,6 @@
 | [Berachain (Asia)](https://storage.googleapis.com/bartio-snapshot-as/index.html)                                | pebbledb  |
 | [Berachain (Europe)](https://storage.googleapis.com/bartio-snapshot-eu/index.html)                              | pebbledb  |
 | [Berachain (North America)](https://storage.googleapis.com/bartio-snapshot/index.html)                          | pebbledb  |
-| [Blacknodes](https://services.blacknodes.net/Berachain-V2/)                                                     | pebbledb  |
-| [Blacknodes](https://berachain-snapshots.blacknodes.net/)                                                       |All EL Snap|
 | [Blockhunters](https://blockhunters.dev/testnet/berachainv2/snapshot)                                           | goleveldb |
 | [Brightlystake](https://testnet-berav2.brightlystake.com/snapshot/)                                             | pebbledb  |
 | [Contribution DAO](https://services.contributiondao.com/testnet/berachain-v2/snapshots)                         | pebbledb  |
