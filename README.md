@@ -79,6 +79,7 @@
 | [Synergy Nodes](https://synergynodes.com/service/berachain-v2-testnet)                                          | pebbledb  |
 | [TTT VN](https://services.tienthuattoan.com/testnet/berachain-v2/snapshot)                                      | pebbledb  |
 | [Upnode](https://bera.upnode.org/berachainv2/snapshots)                                                         | pebbledb  |
+| [Huginn](https://services.huginn.tech/network/berachain)                                                        | pebbledb  |
 
 ## FAQ
 * **How do I address missed blocks on my validator?**
