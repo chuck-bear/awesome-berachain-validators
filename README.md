@@ -3,13 +3,13 @@
 > Collection of Berachain validators resources
 
 ## Contents
-[Deployment](#deployment)  
-[Monitoring](#monitoring)  
-[Proof of Liquidity](#pol)  
+[Deployment](#deployment)
+[Monitoring](#monitoring)
+[Proof of Liquidity](#pol)
 [Data](#data)
 [Tooling](#tooling)
-[Snapshots](#snapshots)  
-[FAQ](#faq)  
+[Snapshots](#snapshots)
+[FAQ](#faq)
 
 ## Deployment
 * [Berachain's Validator Quickstart](https://docs.berachain.com/nodes/quickstart) - If you like copying and pasting scripts
@@ -52,6 +52,7 @@
 | [GhostGraph](https://public-snapshots.ghostgraph.xyz/bera/snapshot-beacond-mainnet.tgz)                         | pebbledb  |
 | [L0vd.com](https://chain-services.l0vd.com/mainnets/berachain/snapshot)                                         | pebbledb  |
 | [BlackNodes](https://services.blacknodes.net/Berachain-Mainnet)                                                 | pebbledb  |
+| [RHINO](https://berachain-apis.com)                                                                             | pebbledb  |
 
 | Execution Layer Snapshots                                                                                       | Client  |
 |-----------------------------------------------------------------------------------------------------------------|---------|
@@ -59,6 +60,7 @@
 | [BrightlyStake](https://bera-main.brightlystake.com/snapshot/)                                                  | reth    |
 | [L0vd.com](https://chain-services.l0vd.com/mainnets/berachain/snapshot)                                         | reth    |
 | [BlackNodes](https://berachain-snapshots.blacknodes.net)                                                        |All EL SNAPS|
+| [RHINO](https://berachain-apis.com)                                                                             | reth    |
 
 
 ## Snapshots (Bartio testnet)
