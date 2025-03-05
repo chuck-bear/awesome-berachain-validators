@@ -59,28 +59,8 @@
 | [Staketab](https://services.staketab.org/docs/berachain/el-snapshot/)                                           | geth    |
 | [BrightlyStake](https://bera-main.brightlystake.com/snapshot/)                                                  | reth    |
 | [L0vd.com](https://chain-services.l0vd.com/mainnets/berachain/snapshot)                                         | reth    |
-| [BlackNodes](https://berachain-snapshots.blacknodes.net)                                                        |All EL SNAPS|
+| [BlackNodes](https://services.blacknodes.net/Berachain-Mainnet)                                                 | ALL     |
 | [RHINO](https://berachain-apis.com)                                                                             | reth    |
-
-
-## Snapshots (Bartio testnet)
-
-| Provider                                                                                                        | Database  |
-|-----------------------------------------------------------------------------------------------------------------|-----------|
-| [A41](https://narrow-cello-dab.notion.site/A41-Berachain-Testnet-v2-Snapshots-4d39b8e7046e4fc8bce4ce9cf5053b97) | pebbledb  |
-| [Allnodes](https://www.publicnode.com/snapshots#berachain)                                                      | goleveldb |
-| [Berachain (Asia)](https://storage.googleapis.com/bartio-snapshot-as/index.html)                                | pebbledb  |
-| [Berachain (Europe)](https://storage.googleapis.com/bartio-snapshot-eu/index.html)                              | pebbledb  |
-| [Berachain (North America)](https://storage.googleapis.com/bartio-snapshot/index.html)                          | pebbledb  |
-| [Blockhunters](https://blockhunters.dev/testnet/berachainv2/snapshot)                                           | goleveldb |
-| [Brightlystake](https://testnet-berav2.brightlystake.com/snapshot/)                                             | pebbledb  |
-| [Contribution DAO](https://services.contributiondao.com/testnet/berachain-v2/snapshots)                         | pebbledb  |
-| [Imperator](https://www.imperator.co/services/chain-services/testnets/bera-v2)                                  | goleveldb |
-| [L0vd services](https://chain-services.l0vd.com/testnets/berachain_v2/snapshot#sync-from-snapshot-pebbledb)     | pebbledb  |
-| [Staketab](https://services.staketab.org/docs/beacon-testnet/snapshot)                                          | pebbledb  |
-| [Synergy Nodes](https://synergynodes.com/service/berachain-v2-testnet)                                          | pebbledb  |
-| [TTT VN](https://services.tienthuattoan.com/testnet/berachain-v2/snapshot)                                      | pebbledb  |
-| [Upnode](https://bera.upnode.org/berachainv2/snapshots)                                                         | pebbledb  |
 
 ## FAQ
 * **How do I address missed blocks on my validator?**
