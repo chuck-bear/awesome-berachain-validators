@@ -31,8 +31,6 @@
 
 ## Data
 * [BGTscan](https://bgtscan.com/) - BGT rewards dashboard
-* [Nodes map](https://services.tienthuattoan.com/testnet/berachain-v2/map) - Berachain v2 nodes map
-* [B-Harvest dashboard](https://bera-dashboard.bharvest.io/) - Validators data by B-Harvest
 
 ## Tooling
 
