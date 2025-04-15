@@ -50,6 +50,7 @@
 | [L0vd.com](https://chain-services.l0vd.com/mainnets/berachain/snapshot)                                         | pebbledb  |
 | [BlackNodes](https://services.blacknodes.net/Berachain-Mainnet)                                                 | pebbledb  |
 | [RHINO](https://berachain-apis.com)                                                                             | pebbledb  |
+| [TTT](https://services.tienthuattoan.com/mainnet/berachain/snapshot)                                            | pebbledb  |
 
 | Execution Layer Snapshots                                                                                       | Client  |
 |-----------------------------------------------------------------------------------------------------------------|---------|
@@ -58,6 +59,7 @@
 | [L0vd.com](https://chain-services.l0vd.com/mainnets/berachain/snapshot)                                         | reth    |
 | [BlackNodes](https://services.blacknodes.net/Berachain-Mainnet)                                                 | ALL     |
 | [RHINO](https://berachain-apis.com)                                                                             | reth    |
+| [TTT](https://services.tienthuattoan.com/mainnet/berachain/snapshot)                                            | geth    |
 
 ## FAQ
 * **How do I address missed blocks on my validator?**
@@ -82,7 +84,7 @@
   * Poor peering can result in your node falling behind and potentially missing out on rewards.
   * Keep an eye on your logs if your suspect any peering problems - these will usually show up as a "connection refused" message, "could not resolve host" etc.
   * Check for established connections to your node. ex. on linux `netstat -plant|grep ESTABLISHED`, which gives you the source addresses to verify peering.
-  * [Check your geographic region](https://services.tienthuattoan.com/testnet/berachain-v2/map) for the availability of nearby peers; consider relocating to a different region.
+  * [Check your geographic region](https://services.tienthuattoan.com/mainnet/berachain/map) for the availability of nearby peers; consider relocating to a different region.
   * Change your execution client - remember that peering can affect both the execution and consensus layers. Reth appears to have substantially more peers than geth.
   * Make sure that you have alerting set up on both layers to catch any problems proactively. More information was provided during the [monitoring office hours](https://discord.com/channels/924442927399313448/1245528095553753169/1270454196940046418).
 
